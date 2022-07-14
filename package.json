@@ -1,6 +1,6 @@
 {
-  "name": "html-to-mrkdwn",
-  "version": "3.0.0",
+  "name": "html-to-mrkdwn-next",
+  "version": "3.0.1",
   "description": "Convert HTML to Slack flavored mrkdwn",
   "main": "./lib",
   "scripts": {
